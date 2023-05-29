@@ -1,3 +1,4 @@
 this is sample of shell scripting
 #comments in shell scripting
-Hello world
+#Hello world
+echo hello world
